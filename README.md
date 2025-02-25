@@ -9,10 +9,12 @@ The **Name Formatter Program** is a Java-based console application designed to c
 ## 📸 Screenshots & Breakdown 
 
 
---
+---
 
 ### 🎤 User Input Example  
 Below is an example of how the program collects user input:  
+
+
 
 ## ⚡ Features  
 📝 **User Input Collection** – Prompts users to enter **first, middle, last, prefix, and suffix** names 🔡  

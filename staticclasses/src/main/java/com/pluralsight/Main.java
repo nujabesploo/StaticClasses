@@ -30,6 +30,5 @@ public class Main {
         System.out.println(NameFormatter.format(first_name, middle_name, last_name, suffix_name));
         System.out.println(NameFormatter.format(first_name, last_name));
 
-        in.close();
     }
 }
